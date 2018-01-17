@@ -1,4 +1,4 @@
-# A Django + GraphQL + Apollo + React Stack Demo
+# A Django + GraphQL + Apollo + React Stack
 
 This repo contains the code shown at the [Singapore Djangonauts June 2017 Meetup](https://www.meetup.com/Singapore-Djangonauts/events/240608776/)
 
